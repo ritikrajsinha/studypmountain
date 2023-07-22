@@ -23,7 +23,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
 	cors({
-		origin:"https://studypmountain.vercel.app",
+		origin:"https://studypmountain-icmsmaxwx-ritikrajsinha.vercel.app/?vercelToolbarCode=7JR4slPnXX_B3cY",
 		credentials:true,
 	})
 )
